@@ -1,0 +1,2 @@
+# ItazuraDsmDecrypt
+いたずらゲームです游戏dsm解密脚本
